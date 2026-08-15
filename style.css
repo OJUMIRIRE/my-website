@@ -286,6 +286,11 @@ section p {
     color: #0369a1;
 }
 
+.certificate .button {
+    display: inline-block;
+    margin-top: 15px;
+}
+
 /* General Section Styling */
 section {
     padding: 70px 10%;
