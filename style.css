@@ -275,6 +275,17 @@ section p {
     margin-bottom: 10px;
 }
 
+.certificate h3 a {
+    color: #0284c7;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.certificate h3 a:hover {
+    text-decoration: underline;
+    color: #0369a1;
+}
+
 /* General Section Styling */
 section {
     padding: 70px 10%;
